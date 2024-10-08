@@ -1,16 +1,15 @@
-<!--atividades do dia 07/102024 e 08/10/2024 de html--!>
+<!-- atividades do dis 07 e 08/10/2024 - arquivo exemplos.html -->
 <!DOCTYPE html>
 <html lang="pt-br"> <!--aqui é aonde se escolhe a lingua do site, estava como "en" mas colocaremos como "pt-br"-->
   <head> <!--aqui é feito os arquivos feitos de cabeçalho e os que ficam de fundo-->
     <meta charset="UTF-8" /> <!-- aqui é o tipo de html-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> <!--aqui é nome e escala da pagina-->
-    <title>Document</title>
-    <!-- aqui é o titulo do site-->
+    <title>Document</title> <!-- aqui é o titulo do site-->
   </head>
-  <body>
-    <!-- aqui é feito TUDO que ficara visivel na area da tela-->
+  <body> <!-- aqui é feito TUDO que ficara visivel na area da tela-->
+    
     <!-- é asim que é feito comentarios-->
-    <!-- comentarios do html  -->
+    <!-- comentarios do html-->
     <p> sla oq to arrumando aqui pq o prof nao falou exatamente <b>nao sei se ta certo</b> e nesse caso nao sei como funciona essas tags
         gostaria de saber como essa poha vai funcionar pq to perdido pra krl nessa bct pq pqp vey kakakakkakakka</body> </p> <p><del>essa parece outra tag
              esquieita</del> e essa outra <i>talvez
@@ -32,7 +31,6 @@
           <ul> <!--assim se cria uma sub lista dentro da lista-->
             <li>sub item 1</li>
             <li>sub item 2</li>
-
           </ul>
         <li>mais um item da lista</li>
         <li>ultimo item da lista</li>
